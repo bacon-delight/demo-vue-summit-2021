@@ -1,24 +1,14 @@
-# vue-summit-2021
+# Vue API Integration
 
-## Project setup
+### Resources
+
+-   [Flask APIs](https://github.com/bacon-delight/demo-flask-apis)
+-   [![Run API suite in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/b9de29a0a046ce29d82c)
+-   Data Sourced from [{JSON}Placeholder](https://jsonplaceholder.typicode.com/)
+
+### Getting Started
+
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
